@@ -1,4 +1,4 @@
-name: Desplegar aplicacion HML 5 de Tareas
+name: Desplegar aplicacion HTML 5 de Tareas
 on:
 	push: 
 		branches:
