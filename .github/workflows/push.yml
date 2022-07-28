@@ -1,5 +1,5 @@
 name: Desplegar aplicacion HTML 5 de Tareas 
-on: 
+on:
 	push:
 		branches:
 			- main
