@@ -1,9 +1,9 @@
 name: Desplegar aplicacion HTML 5 de Tareas
 on:
-	push: 
+	push:
 		branches:
 			- main
-jobs: 
+jobs:
 	deploy-page:
 		runs-on: ubuntu-lastest
 		steps:
